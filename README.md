@@ -20,6 +20,19 @@ This project demonstrates a simple sentiment analysis chatbot that analyzes the 
 
 ---
 
+## Requirements
+
+Make sure you have the following Python libraries installed:
+
+- `textblob`
+- `nltk`
+
+Install all required libraries with:
+```bash
+pip install -r requirements.txt
+
+---
+
 ## Example Interaction
 
 -----------------------------------------------------------------------
@@ -43,20 +56,6 @@ __________________________________________________
 
 [Chatbot]: Goodbye!
 __________________________________________________
-
----
-
-## Requirements
-
-Make sure you have the following Python libraries installed:
-
-- `textblob`
-- `nltk`
-
-Install all required libraries with:
-```bash
-pip install -r requirements.txt
-
 
 
  
