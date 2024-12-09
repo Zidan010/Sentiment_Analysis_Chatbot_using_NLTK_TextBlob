@@ -28,8 +28,7 @@ Make sure you have the following Python libraries installed:
 - `nltk`
 
 Install all required libraries with:
-```bash
-pip install -r requirements.txt```
+```bash pip install -r requirements.txt```
 
 ---
 
