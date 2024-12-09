@@ -28,7 +28,7 @@ Make sure you have the following Python libraries installed:
 - `nltk`
 
 Install all required libraries with:
-```bash pip install -r requirements.txt```
+```pip install -r requirements.txt```
 
 ---
 
@@ -38,23 +38,23 @@ Install all required libraries with:
 Welcome to the Sentiment Analysis Chatbot! Type 'exit' to end the chat.
 -----------------------------------------------------------------------
 
-[You]: I'm feeling great today!
+You: I'm feeling great today!
 __________________________________________________
 
-[Chatbot]: Awesome! You're in a good mood today! 🌟
+Chatbot: Awesome! You're in a good mood today! 🌟
 __________________________________________________
 
-[You]: I am a bit sad right now.
+You: I am a bit sad right now.
 __________________________________________________
 
-[Chatbot]: I'm sorry to hear that. 😔
+Chatbot: I'm sorry to hear that. 😔
 __________________________________________________
 
-[You]: exit
+You: exit
 __________________________________________________
 
-[Chatbot]: Goodbye!
+Chatbot: Goodbye!
 __________________________________________________
-
+---
 
  
