@@ -30,3 +30,30 @@ Make sure you have the following Python libraries installed:
 Install all required libraries with:
 ```bash
 pip install -r requirements.txt
+
+---
+
+## Example Interaction
+
+-----------------------------------------------------------------------
+Welcome to the Sentiment Analysis Chatbot! Type 'exit' to end the chat.
+-----------------------------------------------------------------------
+
+[You]: I'm feeling great today!
+__________________________________________________
+
+[Chatbot]: Awesome! You're in a good mood today! 🌟
+__________________________________________________
+
+[You]: I am a bit sad right now.
+__________________________________________________
+
+[Chatbot]: I'm sorry to hear that. 😔
+__________________________________________________
+
+[You]: exit
+__________________________________________________
+
+[Chatbot]: Goodbye!
+__________________________________________________
+ 
