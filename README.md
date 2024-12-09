@@ -29,8 +29,7 @@ Make sure you have the following Python libraries installed:
 
 Install all required libraries with:
 ```bash
-pip install -r requirements.txt
-
+pip install -r requirements.txt```
 
 ---
 
